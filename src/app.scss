@@ -1,0 +1,10 @@
+@tailwind preflight;
+
+@tailwind components;
+
+a {
+	text-decoration: none;
+	@apply .text-black;
+}
+
+@tailwind utilities;
