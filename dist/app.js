@@ -10491,8 +10491,8 @@ window.$ = window.jQuery = __webpack_require__(/*! jquery */ "./node_modules/jqu
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\DELL\Desktop\twitter_clone\src\app.js */"./src/app.js");
-module.exports = __webpack_require__(/*! C:\Users\DELL\Desktop\twitter_clone\src\app.scss */"./src/app.scss");
+__webpack_require__(/*! C:\Users\DELL\Desktop\wp-pusher-clone\src\app.js */"./src/app.js");
+module.exports = __webpack_require__(/*! C:\Users\DELL\Desktop\wp-pusher-clone\src\app.scss */"./src/app.scss");
 
 
 /***/ })

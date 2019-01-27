@@ -46,6 +46,9 @@ let defaultConfig = require('tailwindcss/defaultConfig')()
 let colors = {
   'transparent': 'transparent',
 
+  'blue-wp-pusher': '#1179bf',
+  'green-wp-pusher': '#038e7d',
+
   'black': '#22292f',
   'grey-darkest': '#3d4852',
   'grey-darker': '#606f7b',
@@ -267,6 +270,7 @@ module.exports = {
     '3xl': '1.875rem',  // 30px
     '4xl': '2.25rem',   // 36px
     '5xl': '3rem',      // 48px
+    '5.5xl': '4.125rem',
   },
 
 
@@ -503,6 +507,7 @@ module.exports = {
     '48': '12rem',
     '64': '16rem',
     '1/2': '50%',
+    '1/2-almost': '48%',
     '1/3': '33.33333%',
     '2/3': '66.66667%',
     '1/4': '25%',
